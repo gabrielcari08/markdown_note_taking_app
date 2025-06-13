@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+markdown
+language-tool-python
+python-multipart
